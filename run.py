@@ -1,2 +1,2 @@
-print("Write down your to do list:")
-print(input())
+user_text1 = input("Enter a to do list: ")
+print(user_text1)
